@@ -80,19 +80,19 @@ flex-wrap: wrap-reverse;
 
 ### justify-content
 
-![](C:\Users\Acer\Desktop\flexbox\justify-content.svg)
+![justify-content](https://github.com/ercumentlacin/flexbox/blob/main/justify-content.svg)
 
 ---
 
 ### align-items
 
-![align-items](C:\Users\Acer\Desktop\flexbox\align-items.png)
+![align-items](https://github.com/ercumentlacin/flexbox/blob/main/align-items.png)
 
 ---
 
 ### align-content
 
-![align-content](C:\Users\Acer\Desktop\flexbox\align-content.png)
+![align-content](https://github.com/ercumentlacin/flexbox/blob/main/align-content.png)
 
 ---
 
